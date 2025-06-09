@@ -1,12 +1,19 @@
 # Olá, eu sou o Matheus! 👋
+<br>
+Desenvolvedor Java focado em criar soluções de software robustas e eficientes.
+<br>
 
+---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Nisholas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=f8f8f2&text_color=f8f8f2&icon_color=6272a4" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Nisholas&layout=compact&langs_count=7&theme=dracula&title_color=f8f8f2&text_color=f8f8f2" />
+### ⭐ GitHub Stats
+<div style="display: flex; justify-content: center;">
+  <img style="max-width: 45%; margin-right: 10px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Nisholas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=f8f8f2&text_color=f8f8f2&icon_color=6272a4" />
+  <img style="max-width: 45%;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Nisholas&layout=compact&langs_count=7&theme=dracula&title_color=f8f8f2&text_color=f8f8f2" />
 </div>
 
 <br>
+
+---
 
 ### 💻 Tecnologias
 <p align="left">
