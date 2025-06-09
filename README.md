@@ -9,14 +9,47 @@
 <br/>
 
 <!-- Bloco das tecnologias -->
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <img src="https://img.icons8.com/color/2x/vue-js.png" width="60" alt="Vue.js"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="60" alt="React Native"/>
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="60" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/2x/css3.png" width="60" alt="CSS3"/>
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="60" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="60" alt="Bootstrap"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="right" valign="middle"><strong>Linguagens:</strong></td>
+    <td valign="middle">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" alt="Groovy" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><strong>Frameworks:</strong></td>
+    <td valign="middle">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="45" height="45"/>
+      <em>Spring Boot, Spring Data, Spring Security</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><strong>Bancos de Dados:</strong></td>
+    <td valign="middle">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+      <em>PostgreSQL, JDBC, JPA</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><strong>Ferramentas:</strong></td>
+    <td valign="middle">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="45" height="45"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><strong>Arquitetura:</strong></td>
+    <td valign="middle">
+      <em>Microsserviços, RESTful APIs</em>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
