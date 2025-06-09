@@ -14,7 +14,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" width="60" height="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/>
-    <img src="https://img.shields.io/badge/Microsserviços-orange?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Microsserviços"/>
+    <img src="https://img.shields.io/badge/Microsserviços-orange?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Microsserviços" width="60" height="60"/>
     
 </div>
 
