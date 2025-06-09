@@ -1,10 +1,5 @@
 # Olá, eu sou o Matheus! 👋
-<br>
-Desenvolvedor Java focado em criar soluções de software robustas e eficientes.
-<br>
-
 ---
-
 ### ⭐ GitHub Stats
 <table align="center">
   <tr>
@@ -16,9 +11,7 @@ Desenvolvedor Java focado em criar soluções de software robustas e eficientes.
     </td>
   </tr>
 </table>
-
 <br>
-
 ---
 
 ### 💻 Tecnologias
