@@ -1,6 +1,5 @@
 # Olá, eu sou o Matheus! 👋
 ---
-### ⭐ GitHub Stats
 <table align="center">
   <tr>
     <td align="center">
