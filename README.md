@@ -1,17 +1,12 @@
 # Olá, eu sou o Matheus! 👋
 
+
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr align="center">
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Nisholas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Nisholas&layout=compact&langs_count=7&theme=dracula"/>
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Nisholas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=f8f8f2&text_color=f8f8f2&icon_color=6272a4" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Nisholas&layout=compact&langs_count=7&theme=dracula&title_color=f8f8f2&text_color=f8f8f2" />
 </div>
+
+<br>
 
 ### 💻 Tecnologias
 <p align="left">
