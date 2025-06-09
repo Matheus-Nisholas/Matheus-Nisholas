@@ -9,49 +9,16 @@
 <br/>
 
 <!-- Bloco das tecnologias -->
-<table align="center">
-  <tr>
-    <td align="right" valign="middle"><strong>Linguagens:</strong></td>
-    <td valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" alt="Groovy" width="45" height="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><strong>Frameworks:</strong></td>
-    <td valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="45" height="45"/>
-      <em>Spring Boot, Spring Data, Spring Security</em>
-    </td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><strong>Bancos de Dados:</strong></td>
-    <td valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
-      <em>PostgreSQL, JDBC, JPA</em>
-    </td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><strong>Ferramentas:</strong></td>
-    <td valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="45" height="45"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><strong>Arquitetura:</strong></td>
-    <td valign="middle">
-      <em>Microsserviços, RESTful APIs</em>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center; justify-content: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/>
+    <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=api-platform&logoColor=white" alt="RESTful APIs"/>
+</div>
 
 <br/>
+
 
 <!-- Bloco das redes sociais -->
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; justify-content: center;">
