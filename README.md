@@ -1,4 +1,4 @@
-<h1>Hello World, I'm Leeh, be very welcome</h1>
+<h1>Hello World, I'm Matheus, be very welcome</h1>
 
 <!-- Bloco dos cards lado a lado -->
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
@@ -21,20 +21,14 @@
 <br/>
 
 <!-- Bloco das redes sociais -->
-<div>
-  <a href="https://www.youtube.com/channel/UCbOyyAqpyiYiImgaoXAwd9A" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https:https://www.instagram.com/onisholas_/" target="_blank">
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; justify-content: center;">
+  <a href="https://www.instagram.com/onisholas_/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.twitch.tv/leehxd_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+  <a href="mailto:nisholas.contatos@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
-  <a href="mailto:contato@leehxd.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https:www.linkedin.com/in/nisholas-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/nisholas-dev/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
