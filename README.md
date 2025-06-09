@@ -1,5 +1,5 @@
 # Olá, eu sou o Matheus! 👋
----
+
 <table align="center">
   <tr>
     <td align="center">
@@ -11,7 +11,6 @@
   </tr>
 </table>
 <br>
----
 
 ### 💻 Tecnologias
 <p align="left">
