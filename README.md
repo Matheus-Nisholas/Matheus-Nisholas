@@ -1,5 +1,5 @@
-<h1>Olá, eu sou o Matheus! 👋</h1>
-<p>Desenvolvedor Java focado em criar soluções de software robustas e eficientes.</p>
+<h1>Hello, I'm Matheus! 👋</h1>
+<p>Java Developer focused on creating robust and efficient software solutions.</p>
 
 <br/>
 
@@ -23,21 +23,21 @@
 
 ---
 
-### 💻 Tecnologias
+### 💻 Technologies
 <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center; justify-content: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="60" height="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" width="60" height="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/>
     <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=api-platform&logoColor=white" alt="RESTful APIs"/>
-    <img src="https://img.shields.io/badge/Microsserviços-orange?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Microsserviços"/>
+    <img src="https://img.shields.io/badge/Microservices-orange?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Microservices"/>
 </div>
 
 <br/>
 
 ---
 
-### 🔗 Conecte-se Comigo
+### 🔗 Connect with Me
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; justify-content: center;">
   <a href="https://www.instagram.com/onisholas_/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
