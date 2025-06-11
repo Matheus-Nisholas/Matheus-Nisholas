@@ -13,7 +13,7 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Nisholas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Nisholas&layout=compact&langs_count=6&theme=tokyonight"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Nisholas&layout=compact&langs_count=7&theme=dracula&cache_seconds=3600"/>
       </td>
     </tr>
   </table>
