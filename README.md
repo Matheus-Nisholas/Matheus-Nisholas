@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheus-nisholas&label=Profile%20views&color=0e75b6&style=flat" alt="matheus-nisholas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheus-nisholas" alt="matheus-nisholas" /></a> </p>
-
 - 🔭 I’m currently working on [calculadora-rescisao](https://github.com/Matheus-Nisholas/calculadora-rescisao)
 
 - 👯 I’m looking to collaborate on **Backend projects with **Java/Spring Boot** or REST APIs that involve business rules and authentication with JWT.**
